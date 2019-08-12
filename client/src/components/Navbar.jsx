@@ -5,11 +5,11 @@ const NavBar = () => {
   return (
     <div>
       <Navbar variant="dark" bg="dark" expand="lg">
-        <Navbar.Brand href="/Home">YouLikeTube App</Navbar.Brand>
+        <Navbar.Brand href="/">YouLikeTube App</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="mr-auto">
-            <Nav.Link href="/Home">Home</Nav.Link>
+            <Nav.Link href="/">Home</Nav.Link>
             <Nav.Link href="/About">About</Nav.Link>
             <Nav.Link href="/Contact">Contact</Nav.Link>
             <NavDropdown title="Categories" id="basic-nav-dropdown">

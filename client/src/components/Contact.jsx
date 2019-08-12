@@ -19,7 +19,7 @@ function Contact() {
             </Card.Text>
           </Card.Body>
           <Card.Footer>
-            <a target="_blank" href={'http://www.borasumer.com'}>www.borasumer.com</a>
+            <a target="_blank" rel="noopener noreferrer" href={'http://www.borasumer.com'}>www.borasumer.com</a>
 
           </Card.Footer>
         </Card>
@@ -35,7 +35,7 @@ function Contact() {
             </Card.Text>
           </Card.Body>
           <Card.Footer>
-            <a target="_blank" href={'http://orkunozgiray.com'}>www.orkunozgiray.com</a>
+            <a target="_blank" rel="noopener noreferrer" href={'http://orkunozgiray.com'}>www.orkunozgiray.com</a>
           </Card.Footer>
         </Card>
 
@@ -50,7 +50,7 @@ function Contact() {
             </Card.Text>
           </Card.Body>
           <Card.Footer>
-            <a target="_blank" href={'https://www.ozanmuldur.com'}>www.ozanmuldur.com</a>
+            <a target="_blank" rel="noopener noreferrer" href={'https://www.ozanmuldur.com'}>www.ozanmuldur.com</a>
 
           </Card.Footer>
         </Card>
@@ -66,7 +66,7 @@ function Contact() {
             </Card.Text>
           </Card.Body>
           <Card.Footer>
-            <a target="_blank" href={'https://www.tunaayberk.com'}>www.tunaayberk.com</a>
+            <a target="_blank" rel="noopener noreferrer" href={'https://www.tunaayberk.com'}>www.tunaayberk.com</a>
           </Card.Footer>
         </Card>
       </CardGroup>
